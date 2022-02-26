@@ -137,7 +137,7 @@ void main()
 		return;
 	}
 	
-    printf("%d %d %d %d %d\n", input0[0], input0[1], input0[2], input0[3], input0[4]);
-    printf("%d %d %d %d %d\n", input1[0], input1[1], input1[2], input1[3], input1[4]);
+	printf("%d %d %d %d %d\n", input0[0], input0[1], input0[2], input0[3], input0[4]);
+	printf("%d %d %d %d %d\n", input1[0], input1[1], input1[2], input1[3], input1[4]);
 	printf("%d %d %d %d %d\n", output[0], output[1], output[2], output[3], output[4]);
 }
